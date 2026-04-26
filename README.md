@@ -4,6 +4,16 @@ Krull is an acronym for Knowledge Running Under Lightweight Language.
 
 Krull-Micro is a tiny decoder-only Transformer language model for text generation on edge devices such as smartphones and low-RAM embedded systems.
 
+It is designed for very constrained devices:
+
+Krull-Micro
+Layers: 2
+Hidden size: 192
+Heads: 3 or 4
+FFN size: 512
+Context length: 128–256
+Parameters: ~3M–8M
+
 It uses a TinyBERT-inspired comprehensive distillation method, adapted to a causal GPT-style student:
 
 - embedding-layer output distillation

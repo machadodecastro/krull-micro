@@ -1,0 +1,11 @@
+{
+  "model_name": "Krull-Micro",
+  "vocab_size": 8000,
+  "block_size": 256,
+  "n_layer": 2,
+  "n_head": 4,
+  "n_embd": 192,
+  "ffn_mult": 4,
+  "dropout": 0.1,
+  "bias": true
+}

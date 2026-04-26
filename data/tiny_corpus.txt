@@ -1,0 +1,9 @@
+Krull is a tiny language model designed for edge devices.
+Small models can generate useful text when trained carefully.
+Transformer distillation transfers knowledge from a large teacher to a small student.
+The student learns embeddings, hidden states, attention maps, and soft predictions.
+Edge devices have limited memory and compute, so Krull must be compact.
+A causal language model predicts the next token from previous tokens.
+The river bank was quiet and the water moved slowly.
+The scientist observed the mice in the biomedical research facility.
+Artificial intelligence can assist laboratory management and data analysis.

@@ -1,4 +1,4 @@
-# Krull-Micro
+# Krull
 
 Krull is an acronym for Knowledge Running Under Lightweight Language.
 

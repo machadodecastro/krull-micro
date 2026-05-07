@@ -11,7 +11,7 @@ Krull-Micro is designed for very constrained devices:
 - Heads: 3 or 4
 - FFN size: 512
 - Context length: 128–256
-- Parameters: ~3M–8M
+- Parameters: 3M
 
 It uses a TinyBERT-inspired comprehensive distillation method, adapted to a causal GPT-style student:
 

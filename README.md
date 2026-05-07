@@ -67,7 +67,7 @@ On Windows PowerShell:
 ```powershell
 cd krull_micro
 python -m venv .venv
-.venv\Scripts\Activate.ps1
+.venv\Scripts\activate
 pip install --upgrade pip
 pip install -r requirements.txt
 ```
